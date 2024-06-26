@@ -12,6 +12,7 @@ psycopg2-binary = "^2.9.9"
 sqlalchemy = "^2.0.31"
 fastapi = "^0.111.0"
 sqlmodel = "^0.0.19"
+pandas = "^2.2.2"
 
 
 [build-system]
